@@ -105,15 +105,15 @@ Jupyter Notebook
 
 customer-churn-project
 │
-├── data/
+├── data/  
+│  
+├── notebooks/  
 │
-├── notebooks/
-│
-├── models/
-│
-├── churn_prediction.ipynb
-│
-└── README.md
+├── models/  
+│  
+├── churn_prediction.ipynb  
+│  
+└── README.md  
 
 
 ---
@@ -147,3 +147,4 @@ Through this project I learned:
 Lokesh  
 B.Tech CSE (AI) Student  
 Aspiring Machine Learning Engineer
+
