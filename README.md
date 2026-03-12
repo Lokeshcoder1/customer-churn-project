@@ -102,3 +102,48 @@ Jupyter Notebook
 ---
 
 ## Project Structure
+
+customer-churn-project
+│
+├── data/
+│
+├── notebooks/
+│
+├── models/
+│
+├── churn_prediction.ipynb
+│
+└── README.md
+
+
+---
+
+## Future Improvements
+
+Possible improvements include:
+
+- Hyperparameter tuning
+- Feature selection
+- Handling class imbalance
+- Deploying the model with Flask / FastAPI
+- Building a prediction dashboard
+
+---
+
+## Key Learning Outcomes
+
+Through this project I learned:
+
+- End-to-end machine learning workflow
+- Data preprocessing and feature engineering
+- Exploratory Data Analysis
+- Model training and evaluation
+- Practical ML project structuring
+
+---
+
+## Author
+
+Lokesh  
+B.Tech CSE (AI) Student  
+Aspiring Machine Learning Engineer
