@@ -103,12 +103,12 @@ Jupyter Notebook
 
 ## Project Structure
 
-customer-churn-project
-│
+customer-churn-project  
+│  
 ├── data/  
 │  
 ├── notebooks/  
-│
+│  
 ├── models/  
 │  
 ├── churn_prediction.ipynb  
@@ -147,4 +147,5 @@ Through this project I learned:
 Lokesh  
 B.Tech CSE (AI) Student  
 Aspiring Machine Learning Engineer
+
 
